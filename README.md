@@ -2,7 +2,7 @@
 
 🎓 BSIT Student at PUCIT  
 💻 Interested in Software Development & Databases  
-🛠 Skills: C,C++,SQL,PL\SQL,MS office  
+🛠 Skills: C,C++,SQL,PL\SQL,MS office,Canva
 📌 Passionate about problem solving and leadership  
 
 ## Projects
